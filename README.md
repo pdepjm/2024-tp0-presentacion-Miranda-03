@@ -12,4 +12,4 @@ Aprendí a programar en la secundaria y me recibí de técnico en computación. 
 
 
 
-### Emojis: 🤠 😡 🤬
+### 🤠 😡 🤬
