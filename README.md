@@ -1,7 +1,7 @@
 2024-tp0-presentacion-Miranda-03
 
 # Martín Miranda  
-#### Lejago: 213.898-0 
+#### Legajo: 213.898-0 
 
 
 <img align="left" width="300px" border-radius= "7px"  src="https://github.com/pdepjm/2024-tp0-presentacion-Miranda-03/assets/72475370/37e614f7-97e4-4118-aafa-1afc3a84edf1"> 
